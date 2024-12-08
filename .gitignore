@@ -1,0 +1,4 @@
+/output/*
+/data/*
+/src/__pycache__
+.DS_Store
