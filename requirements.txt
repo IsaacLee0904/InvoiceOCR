@@ -1,0 +1,8 @@
+pandas
+Pillow>=10.0.0
+google-cloud-vision>=3.4.4
+openai>=1.0.0
+opencv-python-headless>=4.8.0
+python-dotenv>=1.0.0
+pdf2image
+python-magic
